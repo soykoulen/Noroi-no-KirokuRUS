@@ -21,13 +21,13 @@
 ## Превью
 
 <p align="center">
-  <img src="./prv/main.png" width="300"/>
-  <img src="./prv/kami.png" width="300"/>
+  <img src="./prv/main.png" width="500"/>
+  <img src="./prv/kami.png" width="500"/>
 </p>
 
 <p align="center">
-  <img src="./prv/yokai.png" width="300"/>
-  <img src="./prv/card.png" width="300"/>
+  <img src="./prv/yokai.png" width="500"/>
+  <img src="./prv/card.png" width="500"/>
 </p>
 
 ---
