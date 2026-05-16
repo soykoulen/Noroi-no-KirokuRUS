@@ -1,6 +1,5 @@
 # Noroi no Kiroku
 <img align="center" src="./prv/rol.png">
----
 
 ## О проекте
 
