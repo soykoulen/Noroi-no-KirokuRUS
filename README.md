@@ -1,1 +1,1 @@
-# Yokai-no-JinjaV1
+# Noroi-no-Kiroku
