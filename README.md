@@ -41,5 +41,6 @@
 ---
 
 ## Этот архив является ранней формой проекта **Yōkai no Jinja**
+## [Yokai No Jinja](https://github.com/soykoulen/Yokai-no-JinjaRUS)
 
 ---
