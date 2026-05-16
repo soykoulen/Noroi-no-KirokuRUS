@@ -1,4 +1,5 @@
-# Noroi no Kiroku 
+# Noroi no Kiroku
+<img align="center" src="./prv/rolll.png">
 ---
 
 ## О проекте
